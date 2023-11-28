@@ -21,6 +21,7 @@ logs/
 mvnw
 mvnw.cmd
 .mvn
+out
 # .mvn/wrapper/maven-wrapper.jar
 
 
